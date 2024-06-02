@@ -20,4 +20,4 @@ This tool uses the paypal transactions api endpoint to fetch all the subscriptio
 
 3. Create a paypal API key and secret if you haven't already
 4. Modify the ``CLIENT_ID`` and ``CLIENT_SECRET`` variables based on the details from the previous step
-5. Run the program!
+5. Run ``main.py``!
